@@ -17,24 +17,26 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Mar. 2019 - Now: Research Assistant
+  * Center for Intelligent Medical Electronics (CIME), Fudan University
+  * Duties included: Cerebral Blood Oxygen Monitoring Using Near-Infrared Light; Brain Cognition Experiment Using Near-Infrared Light; Monitoring and Analysis of Material Composition Using Near-Infrared Light; Image Recognition Based on Near-Infrared Light and CNN.
+  * Supervisor: Prof. Wei CHEN & Dr. Yafei YUAN
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May. 2018 - Now: Research Assistant
+  * SoC Processor Design and System Institute, State Key Laboratory of ASIC and Systems, Fudan University
+  * Duties included: SNN algorithm design and optimization; Neural Network hardware implementatiion.
+  * Supervisor: Prof. Xiaoyong XUE
+  * Collabrator: Miss. Jingwen JIANG & Miss. Chenyang ZHAO
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Areas of interests: IC design & EDA; Machine Learning, Neuromorphic Computing & Computing In-Memory design. 
+* Technical:
+  * Python3
+  * C
+  * Verilog
+  * Assembly
+* Language: Fluent in English; Native in Mandarin.
 
 Publications
 ======
@@ -56,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Vice President in Electronic Maker Association，Fudan University
