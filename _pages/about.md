@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is Fengshi's webpage!
+This is Fengshi's homepage!
 
-This is Fengshi Tian, a coming senior student majoring Microelectronics at Fudan University. Now I am a visiting student at Westlake University.
+Hi, there! This is Fengshi Tian, a coming senior student majoring Microelectronics at Fudan University. I also go by Clare. Now I am a visiting student at Westlake University.
 
 I have worked as Research Assistant in two labs at Fudan University. Now my research interest lie in Neuromorphic Computing and AI chip&hardware design. I am going to become a PhD student at HKUST in Aug. 2021. Feel free to contact me if you have any questions. My e-mail: fstian17@fudan.edu.cn
 
