@@ -10,7 +10,7 @@ locale                   : "Shanghai,China"
 title                    : "Fengshi (Clare) TIAN "
 title_separator          : "-"
 name                     : &name "Fengshi TIAN"
-description              : &description "Undergraduate RA"
+description              : &description "Undergraduate Research Aaaistant"
 url                      : https://Cloud-Tian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Cloud-Tian.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Fengshi Tian"
   avatar           : "Fengshi Tian.JPG"
-  bio              : "Undergraduate RA in Fudan University"
+  bio              : "Undergraduate Research Assistant @ Fudan University"
   location         : "Shanghai China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "TBA"
   googlescholar    : "TBA"
-  email            :
+  email            : "fstian17@fudan.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
