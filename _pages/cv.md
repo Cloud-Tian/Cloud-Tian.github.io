@@ -17,6 +17,11 @@ Education
 
 Work experience
 ======
+* July. 2020 - Now: Research Assistant
+  * Cutting-Edge Net of Biomedical Research And Innovation Lab (CENBRAIN), Westlake University
+  * Duties included: TBD
+  * Supervisor: Prof. Mohamad SAWAN
+  
 * Mar. 2019 - Now: Research Assistant
   * Center for Intelligent Medical Electronics (CIME), Fudan University
   * Duties included: Cerebral Blood Oxygen Monitoring Using Near-Infrared Light; Brain Cognition Experiment Using Near-Infrared Light; Monitoring and Analysis of Material Composition Using Near-Infrared Light; Image Recognition Based on Near-Infrared Light and CNN.
