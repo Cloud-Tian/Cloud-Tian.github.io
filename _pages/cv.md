@@ -19,7 +19,7 @@ Work experience
 ======
 * July. 2020 - Now: Research Assistant
   * Cutting-Edge Net of Biomedical Research And Innovation Lab (CENBRAIN), Westlake University
-  * Duties included: TBD
+  * Duties included: S-CNN algorithm design for EEG classification.
   * Supervisor: Prof. Mohamad SAWAN
   
 * Mar. 2019 - Now: Research Assistant
