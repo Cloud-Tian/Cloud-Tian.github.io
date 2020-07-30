@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Fudan University, 2021 (expected)
-* Exchange Student in Oxford University, 2019
-* Exchange Student in Waseda University, 2018
+* B.Eng. @ Fudan University, 2021 (expected)
+* Exchange Student @ Oxford University, 2019
+* Exchange Student @ Waseda University, 2018
 
 Work experience
 ======
@@ -41,6 +41,7 @@ Skills
   * C
   * Verilog
   * Assembly
+  * PyTorch
 * Language: Fluent in English; Native in Mandarin.
 
 Publications
