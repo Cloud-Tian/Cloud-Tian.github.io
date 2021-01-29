@@ -53,4 +53,5 @@ Publications
   
 Service and leadership
 ======
-* Vice President in Electronic Maker Association，Fudan University
+* President of Electronic Maker Association，Fudan University 2020-now
+* Vice President of Electronic Maker Association，Fudan University 2019-2020
