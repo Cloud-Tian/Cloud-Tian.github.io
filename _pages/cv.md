@@ -15,17 +15,19 @@ Education
 * Exchange Student @ Oxford University, 2019
 * Exchange Student @ Waseda University, 2018
 
-Work experience
+Academic experience
 ======
 * July. 2020 - Now: Research Assistant
   * Cutting-Edge Net of Biomedical Research And Innovation Lab (CENBRAIN), Westlake University
-  * Duties included: S-CNN algorithm design for EEG classification.
-  * Supervisor: Prof. Mohamad SAWAN
+  * Duties included: Neuromorphic algorithm and chip design for EEG classification.
+  * Supervisor: Prof. Mohamad SAWAN (Chair Professor, FIEEE, FCAE, FEIC)
+  * Mentor: Dr. Jie YANG
   
 * Mar. 2019 - Now: Research Assistant
   * Center for Intelligent Medical Electronics (CIME), Fudan University
   * Duties included: Cerebral Blood Oxygen Monitoring Using Near-Infrared Light; Brain Cognition Experiment Using Near-Infrared Light; Monitoring and Analysis of Material Composition Using Near-Infrared Light; Image Recognition Based on Near-Infrared Light and CNN.
-  * Supervisor: Prof. Wei CHEN & Dr. Yafei YUAN
+  * Supervisor: Prof. Wei CHEN 
+  * Mentor: Dr. Yafei YUAN
 
 * May. 2018 - Now: Research Assistant
   * SoC Processor Design and System Institute, State Key Laboratory of ASIC and Systems, Fudan University
@@ -35,13 +37,14 @@ Work experience
   
 Skills
 ======
-* Areas of interests: IC design & EDA; Machine Learning, Neuromorphic Computing & Computing In-Memory design. 
+* Areas of interests: IC design; Machine Learning, Neuromorphic Computing & Computing In-Memory design. 
 * Technical:
   * Python3
   * C
   * Verilog
   * Assembly
   * PyTorch
+  * EDA tools & FPGA development
 * Language: Fluent in English; Native in Mandarin.
 
 Publications
