@@ -18,4 +18,4 @@ My future goal is to become a scientist or engineer. I will always focus on the 
 
 
 ==========NEWS===========
-[2021-01-31] My paper has been accepted to IEEE ISCAS 2021!
+[2021-01-31] My paper 'A New Neuromorphic Computing Approach for Epileptic Seizure Prediction' has been accepted to IEEE ISCAS 2021, which is also my first paper!
