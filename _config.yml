@@ -10,7 +10,7 @@ locale                   : "Shanghai,China"
 title                    : "Fengshi (Claire) TIAN "
 title_separator          : "-"
 name                     : &name "Fengshi TIAN"
-description              : &description "Undergraduate Research Aaaistant"
+description              : &description "Student Researcher"
 url                      : https://Cloud-Tian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Cloud-Tian.github.io"
@@ -86,7 +86,7 @@ author:
   location         : "Shanghai China"
   employer         :
   pubmed           : "TBA"
-  googlescholar    : "TBA"
+  googlescholar    : "https://scholar.google.com/citations?user=B1q8gSoAAAAJ&hl=zh-CN"
   email            : "fstian17@fudan.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
