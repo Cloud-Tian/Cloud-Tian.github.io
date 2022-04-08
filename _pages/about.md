@@ -10,14 +10,16 @@ redirect_from:
 
 This is Fengshi's homepage!
 
-Hi, there! This is Fengshi Tian, a PhD student majoring in ECE & AI Chip Center for Emerging Smart Systems(ACCESS) at HKUST supervised by Prof. Tim CHENG (Dean of SENG, Chair Professor, FHKAES, FIEEE) & Prof. Chi-Ying Tsui (Head of ISD Division of SENG, SMIEEE). I also go by Clarence. I obtained my B.Eng. of Microelectronics from Fudan University in 2021, supervised by Prof. Xiaoyong Xue. 
+Hi, there! This is Fengshi Tian, a PhD student majoring in ECE & AI Chip Center for Emerging Smart Systems(ACCESS) at HKUST supervised by Prof. Tim CHENG (VP-R&D of HKUST, former Dean of SENG, Chair Professor, FHKAES, FIEEE) & Prof. Chi-Ying Tsui (Head of ISD Division of SENG, SMIEEE). I also go by Clarence. I obtained my B.Eng. of Microelectronics from Fudan University in 2021, supervised by Prof. Xiaoyong Xue. 
 
-I was a visiting research student at CenBRAIN, SoE, Westlake University working with Prof. Mohamad SAWAN (Chair Professor, FCAE, FIEEE) & Dr. Jie YANG from 2020 to 2021. I ever worked as Research Assistant in two labs at Fudan University. Now my research interests lie in Neuromorphic Computing and AI chip design. Please feel free to contact me if you have any questions. My e-mails: fengshi.tian@connect.ust.hk & fstian17@fudan.edu.cn & tianfengshi@westlake.edu.cn & fengshi.tian@ieee.org
+I was a visiting research student at CenBRAIN, SoE, Westlake University working with Prof. Mohamad SAWAN (Chair Professor, FCAE, FIEEE) & Dr. Jie YANG from 2020 to 2021. I ever worked as Research Assistant in two labs at Fudan University. Now my research interests lie in Neuromorphic Computing and AI chip design. Please feel free to contact me if you have any interests. My e-mails: fengshi.tian@connect.ust.hk & fstian17@fudan.edu.cn & tianfengshi@westlake.edu.cn & fengshi.tian@ieee.org
 
-My future goal is to become a scientist in the fields of intelligient computing systems. I will always focus on the field of electronic&computer engineering and chase the most cutting-edge technology. 
+My future goal is to become a scientist in the fields of intelligient computing systems. I will always focus on the field of neuromorphic engineering and chase the most cutting-edge technology. 
 
 
 ==========NEWS===========
+
+[2022-03-25] Two papers have been accepted to IEEE AICAS 2022🎉!
 
 [2022-01-15] Three papers have been accepted to IEEE ISCAS 2022🎉!
 
