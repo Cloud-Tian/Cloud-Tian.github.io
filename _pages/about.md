@@ -19,6 +19,8 @@ My future goal is to become a scientist in the fields of intelligient computing 
 
 ==========NEWS===========
 
+[2022-08-01] One papers has been accepted to IEEE ASSCC 2022🎉!
+
 [2022-04-12] I am selected as winner of IEEE ISCAS Student Participation Grant 2022🎉!
 
 [2022-03-25] Two papers have been accepted to IEEE AICAS 2022🎉!
