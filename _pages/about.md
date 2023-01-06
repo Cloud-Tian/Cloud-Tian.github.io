@@ -41,4 +41,4 @@ My future goal is to become a scientist in the fields of intelligient computing 
 
 [2021-01-31] One paper 'A New Neuromorphic Computing Approach for Epileptic Seizure Prediction' has been accepted to IEEE ISCAS 2021, which is also my first paper🎉!
 
-[2021-07-20] I join CenBRAIN NeuroTech, Westlake University as a visiting student🎉!
+[2020-07-20] I join CenBRAIN NeuroTech, Westlake University as a visiting student🎉!
