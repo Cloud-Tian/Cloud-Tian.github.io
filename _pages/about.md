@@ -19,16 +19,18 @@ My future goal is to become a scientist in the fields of intelligient computing 
 
 ==========NEWS===========
 
+[2023-01-03] One paper, 'NeuroCARE: A Generic Neuromorphic Edge Computing Framework for Healthcare Applications', has been accepted to Frontiers in Neuroscience, section Neuroprosthetics🎉!
+
 [2022-12-10] I officially pass my PhD Qualification Exam and become a PhD Candidate🎉!
 
-[2022-08-01] One paper has been accepted to IEEE ASSCC 2022🎉!
+[2022-08-01] One paper, 'A 217.8 MSOPs/W FPGA-based Online Learning SNN Processor Using Unified Event-Driven Structure and Topology Aware Data Reuse Strategies', has been accepted to IEEE ASSCC 2022🎉!
 
 [2022-04-12] I am selected as winner of IEEE ISCAS Student Participation Grant 2022🎉!
 
-[2022-03-25] Two papers have been accepted to IEEE AICAS 2022🎉!
+[2022-03-25] Two papers, 'TAC-RAM: A 65nm 4Kb SRAM Computing-in-Memory Design with 57.55 TOPS/W supporting Multibit Matrix-Vector Multiplication for Binarized Neural Network' and 'Real-time Biosignal Recording and Machine-Learning Analysis System', have been accepted to IEEE AICAS 2022🎉!
 
-[2022-01-15] Three papers have been accepted to IEEE ISCAS 2022🎉!
+[2022-01-15] Three papers,'NIMBLE: A Neuromorphic Learning Scheme and Memristor Based Computing-in-Memory Engine for EMG Based Hand Gesture Recognition', 'An Event-Driven Compressive Neuromorphic System for Cardiac Arrhythmia Detection', and 'A Compact Online-Learning Spiking Neuromorphic Biosignal Processor', have been accepted to IEEE ISCAS 2022🎉!
 
-[2021-11-22] Our paper 'MSPAN: A Memristive Spike-based Computing Engine with Adaptive Neuron for Edge Arrhythmia Detection' has been accepted to Frontiers in Neuroscience, section Neuromorphic Engineering🎉!
+[2021-11-22] One paper 'MSPAN: A Memristive Spike-based Computing Engine with Adaptive Neuron for Edge Arrhythmia Detection' has been accepted to Frontiers in Neuroscience, section Neuromorphic Engineering🎉!
 
-[2021-01-31] Our paper 'A New Neuromorphic Computing Approach for Epileptic Seizure Prediction' has been accepted to IEEE ISCAS 2021, which is also my first paper🎉!
+[2021-01-31] One paper 'A New Neuromorphic Computing Approach for Epileptic Seizure Prediction' has been accepted to IEEE ISCAS 2021, which is also my first paper🎉!
