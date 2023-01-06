@@ -33,4 +33,12 @@ My future goal is to become a scientist in the fields of intelligient computing 
 
 [2021-11-22] One paper 'MSPAN: A Memristive Spike-based Computing Engine with Adaptive Neuron for Edge Arrhythmia Detection' has been accepted to Frontiers in Neuroscience, section Neuromorphic Engineering🎉!
 
+[2021-09-01] I complete my visiting at CenBRAIN NeuroTech, Westlake University and join the AI Chip Center for Emerging Smart System (ACCESS), HKUST as a PhD student🎉!
+
+[2021-06-30] I obtain my B.Eng. degree in Microelectronics Science and Engineering from Fudan University🎉!
+
+[2021-11-22] One paper 'MSPAN: A Memristive Spike-based Computing Engine with Adaptive Neuron for Edge Arrhythmia Detection' has been accepted to Frontiers in Neuroscience, section Neuromorphic Engineering🎉!
+
 [2021-01-31] One paper 'A New Neuromorphic Computing Approach for Epileptic Seizure Prediction' has been accepted to IEEE ISCAS 2021, which is also my first paper🎉!
+
+[2021-07-20] I join CenBRAIN NeuroTech, Westlake University as a visiting student🎉!
