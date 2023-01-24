@@ -19,6 +19,8 @@ My future goal is to become a scientist in the fields of intelligient computing 
 
 ==========NEWS===========
 
+[2023-01-20] One paper, 'NBSSN: a Neuromorphic Binary Single-Spike Neural Network for Efficient Edge Intelligence', has been accepted to IEEE ISCAS 2023🎉!
+
 [2023-01-03] One paper, 'NeuroCARE: A Generic Neuromorphic Edge Computing Framework for Healthcare Applications', has been accepted to Frontiers in Neuroscience, section Neuroprosthetics🎉!
 
 [2022-12-10] I officially pass my PhD Qualification Exam and become a PhD Candidate🎉!
