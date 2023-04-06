@@ -19,7 +19,7 @@ My future goal is to become a scientist in the fields of intelligient computing 
 
 ==========NEWS===========
 
-[2023-04-03] Four papers, 'Binary Is All You Need: Ultra-Efficient Arrhythmia Detection with a Binary-Only Compressive System', 'SNNOpt: an Application-Specific Design Framework for Spiking Neural Networks', 'NeuroBMI: a New Neuromorphic Implantable Wireless Brain Machine Interface with a 0.48 uW Event-Driven Noise-Tolerant Spike Detector', and 'An Energy-Efficient Network Interconnection Structure with Pruned Node-fusion Tree-based Multicast Scheme for Neuromorphic Systems' have been accepted to IEEE AICAS 2023🎉!
+[2023-04-03] Five papers, 'Binary Is All You Need: Ultra-Efficient Arrhythmia Detection with a Binary-Only Compressive System', 'SNNOpt: an Application-Specific Design Framework for Spiking Neural Networks', 'NeuroBMI: a New Neuromorphic Implantable Wireless Brain Machine Interface with a 0.48 uW Event-Driven Noise-Tolerant Spike Detector', 'Novel Knowledge Distillation to Improve Training Accuracy of Spin-Based SNN', and 'An Energy-Efficient Network Interconnection Structure with Pruned Node-fusion Tree-based Multicast Scheme for Neuromorphic Systems' have been accepted to IEEE AICAS 2023🎉!
 
 [2023-01-21] One poster, 'Neuromorphic System-on-Chip Towards Efficient Edge Healthcare', has been accepted to ACM/IEEE DAC 2023 Work-in-Progress Session🎉!
 
