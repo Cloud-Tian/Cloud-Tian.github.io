@@ -10,16 +10,16 @@ redirect_from:
 
 This is Fengshi's homepage!
 
-Hi, there! This is Fengshi Tian, a PhD student of ECE & AI Chip Center for Emerging Smart Systems(ACCESS) at HKUST supervised by Prof. Tim CHENG (VP-R&D, former Dean of SENG, Chair Professor, FHKAES, FIEEE) & Prof. Chi-Ying TSUI (Head of ISD Division of SENG, SMIEEE). I also go by Clarence. I obtained my B.Eng. of Microelectronics from Fudan University in 2021, supervised by Prof. Xiaoyong Xue. 
+Hi, there! This is Fengshi Tian, a PhD candidate of Dept. ECE & AI Chip Center for Emerging Smart Systems (ACCESS) at HKUST supervised by Prof. Tim CHENG (VP-R&D, former Dean of SENG, Chair Professor, FHKAES, FIEEE) & Prof. Chi-Ying TSUI (Head of ISD Division of SENG, SMIEEE). I also go by Clarence. I obtained my B.Eng. in Microelectronics from Fudan University in 2021, supervised by Prof. Xiaoyong Xue. 
 
-I was a visiting research student at CenBRAIN, SoE, Westlake University working with Prof. Mohamad SAWAN (Chair Professor, FCAE, FIEEE) & Dr. Jie YANG from 2020 to 2021. I ever worked as Research Assistant in two labs at Fudan University. I also had some experience in investing business and IC industry. Now my research interests lie in Neuromorphic Computing and AI chip design. Please feel free to contact me if you have any interests. My e-mails: fengshi.tian@connect.ust.hk & fengshi.tian@ieee.org
+I was a visiting research student at CenBRAIN Neurotech, Westlake University working with Prof. Mohamad SAWAN (Chair Professor, FRSC, FIEEE, FCAE, FEIC, O.Q) & Dr. Jie YANG from 2020 to 2021. I ever worked as Research Assistant in CIME and SKL of ASIC & System at Fudan University, advised by Prof. Wei Chen and Prof. Xiaoyong Xue, respectively. I also had some experience in investing business and IC industry. My current research interests lie in Neuromorphic Computing and AI chip design. Please feel free to contact me if you have any interests. My e-mails: fengshi.tian@connect.ust.hk & fengshi.tian@ieee.org
 
 My future goal is to become a scientist in the fields of intelligient computing systems. I will always focus on the field of neuromorphic engineering and chase the most cutting-edge technology. 
 
 
 ==========NEWS===========
 
-[2023-08-14] One paper, 'NOLS: a Near-Sensor On-Chip Learning System with Direct Feedback Alignment for Personalized Wearable Heart Health Monitoring', has been accepted to IEEE BIOCAS 2023🎉!
+[2023-08-14] Two papers, 'NOLS: a Near-Sensor On-Chip Learning System with Direct Feedback Alignment for Personalized Wearable Heart Health Monitoring' and 'A Clockless Robust Bionic Spike Detector for Implantable Brain-Computer Interfaces', have been accepted to IEEE BIOCAS 2023🎉!
 
 [2023-06-13] We win the 🥇First Place Best Paper Award🥇 of IEEE AICAS 2023! Thanks to all the co-authors of the paper ('Binary Is All You Need: Ultra-Efficient Arrhythmia Detection with a Binary-Only Compressive System')🎉!
 
