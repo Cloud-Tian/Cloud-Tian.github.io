@@ -19,7 +19,9 @@ My future goal is to become a scientist in the fields of intelligient computing 
 
 ==========NEWS===========
 
-[2023-06-13] We win the First Place Best Paper Award of IEEE AICAS 2023🎉! Thanks to all the co-authors of the paper ('Binary Is All You Need: Ultra-Efficient Arrhythmia Detection with a Binary-Only Compressive System')!
+[2023-08-14] One paper, 'NOLS: a Near-Sensor On-Chip Learning System with Direct Feedback Alignment for Personalized Wearable Heart Health Monitoring', has been accepted to IEEE BIOCAS 2023🎉!
+
+[2023-06-13] We win the 🥇First Place Best Paper Award🥇 of IEEE AICAS 2023! Thanks to all the co-authors of the paper ('Binary Is All You Need: Ultra-Efficient Arrhythmia Detection with a Binary-Only Compressive System')🎉!
 
 [2023-05-24] One paper, 'BIOS: a 40nm Bionic Sensor-Defined 0.47pJ/SOP, 268.7TSOPs/W Configurable Spiking Neuron-in-Memory Processor for Wearable Healthcare', has been accepted to IEEE ESSDERC/ESSCIRC 2023🎉!
 
