@@ -19,6 +19,8 @@ My future goal is to become a scientist in the fields of intelligient computing 
 
 ==========NEWS===========
 
+[2023-09-28] One paper, 'Tempo-CIM: A RRAM Compute-in-Memory Neuromorphic Accelerator with Area-Efficient LIF Neuron and Split-Train-Merged-Inference Algorithm for Edge AI Applications', has been accepted to IEEE JETCAS🎉!
+
 [2023-08-14] Three papers, 'NOLS: a Near-Sensor On-Chip Learning System with Direct Feedback Alignment for Personalized Wearable Heart Health Monitoring', 'A Clockless Robust Bionic Spike Detector for Implantable Brain-Computer Interfaces', and 'NMBNN: Noise-Adaptive Memristive Bayesian Neural Network for Energy-Efficient Edge Health Care' have been accepted to IEEE BIOCAS 2023🎉!
 
 [2023-06-13] We win the 🥇First Place Best Paper Award🥇 of IEEE AICAS 2023! Thanks to all the co-authors of the paper ('Binary Is All You Need: Ultra-Efficient Arrhythmia Detection with a Binary-Only Compressive System')🎉!
