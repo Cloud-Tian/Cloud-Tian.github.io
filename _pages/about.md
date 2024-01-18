@@ -19,6 +19,10 @@ My future goal is to become a scientist in the fields of intelligient computing 
 
 ==========NEWS===========
 
+[2023-09-28] Two papers, 'BOLS: a Bionic Sensor-Direct On-Chip Learning System with Direct-Feedback-Through-Time for Personalized Wearable Health Monitoring', and 'Accelerating BPTT-Based SNN Training with Sparsity-Aware and Pipelined Architecture' have been accepted to IEEE ISCAS 2024🎉!
+
+[2024-01-06] Two papers, 'A 0.078 pJ/SOP Unstructured Sparsity-Aware Spiking Attention/Convolution Processor with 3D Compute Array', and 'A Neuron-Inspired 0.0032mm2-1.38μW/Ch Wireless Implantable Neural Interface with Direct Multiplexing Front-End and Event-Driven Spike Detection and Transmission' have been accepted to IEEE CICC 2024🎉!
+
 [2023-09-28] One paper, 'Tempo-CIM: A RRAM Compute-in-Memory Neuromorphic Accelerator with Area-Efficient LIF Neuron and Split-Train-Merged-Inference Algorithm for Edge AI Applications', has been accepted to IEEE JETCAS🎉!
 
 [2023-08-14] Three papers, 'NOLS: a Near-Sensor On-Chip Learning System with Direct Feedback Alignment for Personalized Wearable Heart Health Monitoring', 'A Clockless Robust Bionic Spike Detector for Implantable Brain-Computer Interfaces', and 'NMBNN: Noise-Adaptive Memristive Bayesian Neural Network for Energy-Efficient Edge Health Care' have been accepted to IEEE BIOCAS 2023🎉!
