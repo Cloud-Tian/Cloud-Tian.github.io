@@ -19,6 +19,8 @@ My future goal is to become a scientist in the fields of intelligient computing 
 
 ==========NEWS===========
 
+[2023-01-21] One poster, 'ReS-CIM: ReRAM-cached SRAM Compute-in-Memory Architecture with a Differential Sensing Scheme Enabling Intra-Macro Weight Loading', has been accepted to ACM/IEEE DAC 2023 Work-in-Progress Session🎉! 
+
 [2024-02-14] One paper, 'NeuroSORT: a Neuromorphic Accelerator for Spike-Based Online and Real-Time Tracking', has been accepted to IEEE AICAS 2024🎉! 
 
 [2024-01-16] Two papers, 'BOLS: a Bionic Sensor-Direct On-Chip Learning System with Direct-Feedback-Through-Time for Personalized Wearable Health Monitoring', and 'Accelerating BPTT-Based SNN Training with Sparsity-Aware and Pipelined Architecture' have been accepted to IEEE ISCAS 2024🎉!
@@ -35,7 +37,7 @@ My future goal is to become a scientist in the fields of intelligient computing 
 
 [2023-05-18] One paper, 'A 510µW 0.738-mm2 6.2-pJ/SOP Online Learning Multi-Topology SNN Processor with Unified Computation Engine in 40-nm CMOS', has been accepted to IEEE TBioCAS🎉!
 
-[2023-05-04] One poster, 'Weight Decay is ALL You Need for Neural Network Sparsification', has been accepted to ACM/IEEE DAC 2023 Late-Breaking-News Session🎉!
+[2023-05-04] One paper 'Weight Decay is ALL You Need for Neural Network Sparsification', has been accepted to ACM/IEEE DAC 2023 Late-Breaking-News Session🎉!
 
 [2023-04-03] Five papers, 'Binary Is All You Need: Ultra-Efficient Arrhythmia Detection with a Binary-Only Compressive System', 'SNNOpt: an Application-Specific Design Framework for Spiking Neural Networks', 'NeuroBMI: a New Neuromorphic Implantable Wireless Brain Machine Interface with a 0.48 uW Event-Driven Noise-Tolerant Spike Detector', 'Novel Knowledge Distillation to Improve Training Accuracy of Spin-Based SNN', and 'An Energy-Efficient Network Interconnection Structure with Pruned Node-fusion Tree-based Multicast Scheme for Neuromorphic Systems' have been accepted to IEEE AICAS 2023🎉!
 
