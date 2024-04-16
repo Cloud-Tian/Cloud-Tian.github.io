@@ -19,6 +19,8 @@ My future goal is to become a scientist in the fields of intelligient computing 
 
 ==========NEWS===========
 
+[2024-04-13] One paper, 'HybMED: A Hybrid Neural Network Training Processor with Multi-Sparsity Exploitation for Internet of Medical Things', has been accepted to IEEE TBioCAS🎉!
+
 [2024-02-27] One poster, 'ReS-CIM: ReRAM-cached SRAM Compute-in-Memory Architecture with a Differential Sensing Scheme Enabling Intra-Macro Weight Loading', has been accepted to ACM/IEEE DAC 2024 Work-in-Progress Session🎉! 
 
 [2024-02-14] One paper, 'NeuroSORT: a Neuromorphic Accelerator for Spike-Based Online and Real-Time Tracking', has been accepted to IEEE AICAS 2024🎉! 
