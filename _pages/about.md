@@ -19,6 +19,8 @@ My future goal is to become a scientist in the fields of intelligient computing 
 
 ==========NEWS===========
 
+[2024-06-29] One paper, 'ReSCIM: Variation-Resilient High Weight-Loading Bandwidth In-Memory Computation Based on Fine-Grained Hybrid Integration of Multi-Level ReRAM and SRAM Cells', has been accepted to IEEE ICCAD 2024🎉! 
+
 [2024-04-13] One paper, 'HybMED: A Hybrid Neural Network Training Processor with Multi-Sparsity Exploitation for Internet of Medical Things', has been accepted to IEEE TBioCAS🎉!
 
 [2024-02-27] One poster, 'ReS-CIM: ReRAM-cached SRAM Compute-in-Memory Architecture with a Differential Sensing Scheme Enabling Intra-Macro Weight Loading', has been accepted to ACM/IEEE DAC 2024 Work-in-Progress Session🎉! 
