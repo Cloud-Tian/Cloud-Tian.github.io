@@ -19,6 +19,10 @@ My future goal is to become a scientist in the fields of intelligient computing 
 
 ==========NEWS===========
 
+[2024-11-11] One paper, 'BioPI: An Energy Efficient and Low-Latency Neuromorphic Pipelined System with Joint Design Optimizations of Sensor-Algorithm-Processor for Wearable Healthcare', has been accepted to IEEE TCAS-AI🎉! 
+
+[2024-10-20] One paper, 'A 28nm 0.22μJ/Token Memory-Compute-Intensity-Aware CNN-Transformer Accelerator with Hybrid-Attention-Based Layer-Fusion and Cascaded Pruning for Semantic-Segmentation', has been accepted to IEEE ISSCC 2025🎉! 
+
 [2024-06-29] One paper, 'ReSCIM: Variation-Resilient High Weight-Loading Bandwidth In-Memory Computation Based on Fine-Grained Hybrid Integration of Multi-Level ReRAM and SRAM Cells', has been accepted to IEEE ICCAD 2024🎉! 
 
 [2024-04-13] One paper, 'HybMED: A Hybrid Neural Network Training Processor with Multi-Sparsity Exploitation for Internet of Medical Things', has been accepted to IEEE TBioCAS🎉!
