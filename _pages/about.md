@@ -19,7 +19,7 @@ My future goal is to become a scientist in the fields of intelligient computing 
 
 ==========NEWS===========
 
-[2024-11-11] One paper, 'SynDCIM: A Performance-Aware Digital Computing-in-Memory Compiler with Multi-Spec-Oriented Subcircuit Synthesis', has been accepted to IEEE DATE 2025🎉! 
+[2024-11-13] One paper, 'SynDCIM: A Performance-Aware Digital Computing-in-Memory Compiler with Multi-Spec-Oriented Subcircuit Synthesis', has been accepted to IEEE DATE 2025🎉! 
 
 [2024-11-11] One paper, 'BioPI: An Energy Efficient and Low-Latency Neuromorphic Pipelined System with Joint Design Optimizations of Sensor-Algorithm-Processor for Wearable Healthcare', has been accepted to IEEE TCAS-AI🎉! 
 
