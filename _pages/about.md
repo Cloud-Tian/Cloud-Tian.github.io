@@ -19,6 +19,8 @@ My future goal is to become a scientist in the fields of intelligient computing 
 
 ==========NEWS===========
 
+[2025-01-21] Two papers, 'NeuroEye: a 54.59mW, 12200FPS Event-Driven Near-Sensor Eye-Tracking Processor with Pipelined Spatial-Temporal Spike-Streaming' and 'An Area-Efficient Bit-Width Configurable Carry-Save Adder Array for Spiking Transformers' have been accepted to IEEE ISCAS 2025🎉!
+
 [2025-01-13] One paper, 'E-NPU: A 34~126nJ/Class Event-Driven Adaptive Neural SoC with Signal-Dynamics-Aware Feature Clustering and Multi-model In-Memory Inference/Training for Personalized Medical Wearables', has been accepted to IEEE CICC 2025🎉! 
 
 [2024-11-18] One paper, 'An Energy-Efficient Unstructured Sparsity-Aware Deep SNN Accelerator with 3D Computation Array', has been accepted to IEEE JSSC🎉! 
