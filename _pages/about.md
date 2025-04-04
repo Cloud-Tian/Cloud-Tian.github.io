@@ -19,6 +19,8 @@ My future goal is to become a scientist in the fields of intelligient computing 
 
 ==========NEWS===========
 
+[2025-04-04] One paper, 'A 6.78 MHz Multiple-Transmitter Wireless Power Transfer System with Integrated Coupling Coefficient Sensor', has been accepted to IEEE VLSI Technology and Circuits 2025🎉! 
+
 [2025-01-21] Four papers, 'NeuroEye: a 54.59mW, 12200FPS Event-Driven Near-Sensor Eye-Tracking Processor with Pipelined Spatial-Temporal Spike-Streaming', 'A Flexible Precision Scaling Deep Neural Network Accelerator with Efficient Weight Combination', 'An Area-Efficient Bit-Width Configurable Carry-Save Adder Array for Spiking Transformers', and 'Analysis and Prevention of Coupling-Dependent Data Flipping in Series-Series Resonant Wireless Power Transfer Systems' have been accepted to IEEE ISCAS 2025🎉!
 
 [2025-01-13] One paper, 'E-NPU: A 34~126nJ/Class Event-Driven Adaptive Neural SoC with Signal-Dynamics-Aware Feature Clustering and Multi-model In-Memory Inference/Training for Personalized Medical Wearables', has been accepted to IEEE CICC 2025🎉! 
