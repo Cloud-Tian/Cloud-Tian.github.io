@@ -19,6 +19,8 @@ My future goal is to become a scientist in the fields of intelligient computing 
 
 ==========NEWS===========
 
+[2025-05-21] One paper, 'BoostViT: Booth-Serial Skipping and Tunable Scaling for Vision Transformers', has been accepted to IEEE TCAS-I🎉! 
+
 [2025-05-21] One paper, 'A Resource-Efficient Algorithm-Hardware Co-Design Towards Semi-Supervised Neurological Symptoms Prediction', has been accepted to IEEE TIM🎉! 
 
 [2025-04-04] One paper, 'A 6.78 MHz Multiple-Transmitter Wireless Power Transfer System with Integrated Coupling Coefficient Sensor', has been accepted to IEEE VLSI Technology and Circuits 2025🎉! 
