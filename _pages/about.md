@@ -19,6 +19,8 @@ My future goal is to become a scientist in the fields of intelligient computing 
 
 ==========NEWS===========
 
+[2025-07-29] One paper, 'A 28nm Spiking Vision Transformer Accelerator with Dual-Path Sparse Compute Core and EMA-free Self-Attention Engine for Embodied Intelligence', has been accepted to IEEE TCAS-AI🎉! 
+
 [2025-05-21] One paper, 'BoostViT: Booth-Serial Skipping and Tunable Scaling for Vision Transformers', has been accepted to IEEE TCAS-I🎉! 
 
 [2025-05-12] One paper, 'A Resource-Efficient Algorithm-Hardware Co-Design Towards Semi-Supervised Neurological Symptoms Prediction', has been accepted to IEEE TIM🎉! 
@@ -33,7 +35,7 @@ My future goal is to become a scientist in the fields of intelligient computing 
 
 [2024-11-13] One paper, 'SynDCIM: A Performance-Aware Digital Computing-in-Memory Compiler with Multi-Spec-Oriented Subcircuit Synthesis', has been accepted to IEEE DATE 2025🎉! 
 
-[2024-11-11] One paper, 'BioPI: An Energy Efficient and Low-Latency Neuromorphic Pipelined System with Joint Design Optimizations of Sensor-Algorithm-Processor for Wearable Healthcare', has been accepted to IEEE TCASAI🎉! 
+[2024-11-11] One paper, 'BioPI: An Energy Efficient and Low-Latency Neuromorphic Pipelined System with Joint Design Optimizations of Sensor-Algorithm-Processor for Wearable Healthcare', has been accepted to IEEE TCAS-AI🎉! 
 
 [2024-10-20] One paper, 'A 28nm 0.22μJ/Token Memory-Compute-Intensity-Aware CNN-Transformer Accelerator with Hybrid-Attention-Based Layer-Fusion and Cascaded Pruning for Semantic-Segmentation', has been accepted to IEEE ISSCC 2025🎉! 
 
