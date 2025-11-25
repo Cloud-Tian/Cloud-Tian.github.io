@@ -19,6 +19,8 @@ My future goal is to become a scientist in the fields of intelligient computing 
 
 ==========NEWS===========
 
+[2025-11-25] One paper, 'A 0.00022mm2/electrode 1024-Channel Sparsity-Aware Neural Interface with CIM-Based Predictive Focused Sampling', has been accepted to IEEE ISSCC 2026🎉! 
+
 [2025-08-10] One paper, 'Lemem: a 179.8TFLOPS/W, 24.21TFLOPS Learning-In-Memory Processor with Layer-Fused Forward/Backward Pipeline for Edge DNN/SNN Training/Inference', has been accepted to IEEE ASSCC 2025🎉! 
 
 [2025-07-29] One paper, 'A 28nm Spiking Vision Transformer Accelerator with Dual-Path Sparse Compute Core and EMA-free Self-Attention Engine for Embodied Intelligence', has been accepted to IEEE TCAS-AI🎉! 
