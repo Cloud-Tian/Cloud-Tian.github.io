@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Hong Kong SAR,China"
-title                    : "Fengshi (Clarence) TIAN "
+locale                   : "Hong Kong SAR, China"
+title                    : "Fengshi's Homepage"
 title_separator          : "-"
 name                     : &name "Fengshi TIAN"
-description              : &description "PhD Student Researcher"
+description              : &description "Ph.D Candidate"
 url                      : https://Cloud-Tian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Cloud-Tian.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Fengshi Tian"
   avatar           : "Fengshi-Tian.png"
-  bio              : "PhD Student Researcher @ HKUST"
+  bio              : "Final-Year Ph.D Candidate @ Hong Kong University of Science and Technology (HKUST)"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : "TBA"
