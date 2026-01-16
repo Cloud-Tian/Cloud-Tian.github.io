@@ -16,7 +16,7 @@ I was a visiting research student at CenBRAIN Neurotech, Westlake University wor
 
 My future goal is to become a scientist in the fields of intelligient computing systems. I will always focus on the emerging fields of efficient intelligence and chase the most cutting-edge technology. 
 
-My up-to-date CV can be found here: https://cloud-tian.github.io/files/Fengshi_Tian_CV.pdf
+My up-to-date CV can be found here: <u><a href="https://cloud-tian.github.io/files/Fengshi_Tian_CV.pdf">CV_Fengshi_Tian</a>.</u>
 
 ==========NEWS===========
 
