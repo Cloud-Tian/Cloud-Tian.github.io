@@ -18,6 +18,8 @@ My future goal is to become a scientist in the fields of intelligient computing 
 
 My up-to-date CV can be found here: <u><a href="https://cloud-tian.github.io/files/Fengshi_Tian_CV.pdf">CV_Fengshi_Tian</a>.</u>
 
+My up-to-date CV can be found here: <a href="https://cloud-tian.github.io/files/Fengshi_Tian_CV.pdf">CV-Fengshi-Tian</a>.
+
 ==========NEWS===========
 
 [2026-11-25] One paper, 'Sparsity-Aware Neural Interface with ClM-Based PredictiveFocused Sampling for Hotspot Spike Tracking', has been accepted to IEEE ISSCC 2026🎉! 
