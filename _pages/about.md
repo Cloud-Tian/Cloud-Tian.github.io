@@ -20,7 +20,9 @@ My up-to-date CV can be found here: <a href="https://cloud-tian.github.io/files/
 
 ==========NEWS===========
 
-[2026-11-25] One paper, 'Sparsity-Aware Neural Interface with ClM-Based PredictiveFocused Sampling for Hotspot Spike Tracking', has been accepted to IEEE ISSCC 2026🎉! 
+[2026-01-20] One paper, 'BioSeek: a Design Generation Framework of Biosignal Processors with Large-Language Models for Edge Healthcare Applications', has been accepted to IEEE ISCAS 2026🎉! 
+
+[2025-11-25] One paper, 'Sparsity-Aware Neural Interface with ClM-Based PredictiveFocused Sampling for Hotspot Spike Tracking', has been accepted to IEEE ISSCC 2026🎉! 
 
 [2025-08-10] One paper, 'Lemem: a 179.8TFLOPS/W, 24.21TFLOPS Learning-In-Memory Processor with Layer-Fused Forward/Backward Pipeline for Edge DNN/SNN Training/Inference', has been accepted to IEEE ASSCC 2025🎉! 
 
