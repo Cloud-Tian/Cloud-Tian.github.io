@@ -20,6 +20,8 @@ My up-to-date CV can be found here: <a href="https://cloud-tian.github.io/files/
 
 ==========NEWS===========
 
+[2026-05-07] One paper, 'Omnidirectional Multi-Transmitter Wireless Power Transfer System with Integrated Coupling Coefficient Sensor' has been accepted to IEEE JSSC🎉! 
+
 [2026-01-20] Two papers, 'BioSeek: a Design Generation Framework of Biosignal Processors with Large-Language Models for Edge Healthcare Applications' and 'A Heterogeneous Decision Spiking Transformer Accelerator with Locality-Dependent KV Product Cache and Compute Pattern Reconfigurable Engine' have been accepted to IEEE ISCAS 2026🎉! 
 
 [2025-11-25] One paper, 'Sparsity-Aware Neural Interface with ClM-Based PredictiveFocused Sampling for Hotspot Spike Tracking', has been accepted to IEEE ISSCC 2026🎉! 
