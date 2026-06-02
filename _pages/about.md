@@ -20,6 +20,8 @@ My up-to-date CV can be found here: <a href="https://cloud-tian.github.io/files/
 
 ==========NEWS===========
 
+[2026-05-28] Two papers, 'Swin-SR: a 0.044~1.14uJ/Token Multi-Modal Signal Restoration Processor with Hierarchical Operation-in-Memory-Access Streaming' and 'A 2.54µJ/Frame Event-Driven Vision Sensor with Oculomotor-Adaptive Workload Allocation and Reconfigurable In-Pixel Feature Extraction for Eye-Tracking in AR/VR Applications' have been accepted to IEEE ESSERC 2026🎉! 
+
 [2026-05-07] One paper, 'Omnidirectional Multi-Transmitter Wireless Power Transfer System with Integrated Coupling Coefficient Sensor' has been accepted to IEEE JSSC🎉! 
 
 [2026-04-29] I'm selected to receive the IEEE CASS Pre-Doctoral Grant🎉! 
